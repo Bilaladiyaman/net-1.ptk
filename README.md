@@ -1,2 +1,2 @@
-# net-1.ptk 
-# password : 123
+# net-1.pkt
+# giriş password : 123
